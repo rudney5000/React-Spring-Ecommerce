@@ -1,1 +1,1 @@
-export const getApiUrl = path => `https://demo-store-souldev.herokuapp.com/${path}`
+export const getApiUrl = path => `http://localhost:8000/${path}`
